@@ -1,0 +1,85 @@
+ var data1 = ` 
+      [ 
+        {
+        "uniqueID": 1,
+        "firstName": "Sabira",
+        "lastName": "Aliu",
+        "eMail": "sabiraaliu@gmail.com",
+        "jobTitle": "Developer",
+        "selary": 3000
+    },
+    {
+        "uniqueID": 2,
+        "firstName": "Shpend",
+        "lastName": "Aliu",
+        "eMail": "shpendaliu@gmail.com",
+        "jobTitle": "Developer",
+        "selary": 3000  
+    }, {
+     "uniqueID": 3,
+        "firstName": "Hana",
+        "lastName": "Aliu",
+        "eMail": "hanaaliu@gmail.com",
+        "jobTitle": "Developer",
+        "selary": 3000
+    },
+    {
+        "uniqueID": 4,
+           "firstName": "Isa",
+           "lastName": "Aliu",
+           "eMail": "isaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 5,
+           "firstName": "Maya",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 6,
+           "firstName": "Hana",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 7,
+           "firstName": "Hana",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 8,
+           "firstName": "Hana",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 9,
+           "firstName": "Hana",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       },
+       {
+        "uniqueID": 10,
+           "firstName": "Hana",
+           "lastName": "Aliu",
+           "eMail": "hanaaliu@gmail.com",
+           "jobTitle": "Developer",
+           "selary": 3000
+       }
+
+
+    ]
+`;

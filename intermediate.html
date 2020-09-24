@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intermediate</title>
+    <script src="data.json"></script>
+</head>
+
+<body>
+    <h1>Employee's List</h1>
+    <table border="2" id="result">
+
+
+    </table>
+</body>
+
+
+<script>
+    //convert string into object
+    var empInfo = JSON.parse(data1);
+    console.table(empInfo);
+
+
+    var i = 0
+
+    for (i = 0; i < empInfo.length; i++) {
+
+        document.getElementById("result").innerHTML += `<tr>
+        	<td>${empInfo[i].uniqueID}</td>
+        	<td>${empInfo[i].firstName}</td>
+        	<td>${empInfo[i].lastName}</td>
+        	<td>${empInfo[i].eMail}</td>
+        	<td>${empInfo[i].jobTitle}</td>
+        	<td>${empInfo[i].selary}</td>
+        	</tr>`;
+
+
+
+    }
+</script>
+
+
+</html>
